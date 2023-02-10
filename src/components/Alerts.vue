@@ -26,6 +26,7 @@
 		class="alert alert-primary d-flex align-items-center"
 		role="alert">
 		<svg
+			height="36"
 			class="bi flex-shrink-0 me-2"
 			role="img"
 			aria-label="Info:">
@@ -38,6 +39,7 @@
 		role="alert">
 		<svg
 			class="bi flex-shrink-0 me-2"
+			height="36"
 			role="img"
 			aria-label="Success:">
 			<use xlink:href="#check-circle-fill" />
@@ -49,6 +51,7 @@
 		role="alert">
 		<svg
 			class="bi flex-shrink-0 me-2"
+			height="36"
 			role="img"
 			aria-label="Warning:">
 			<use xlink:href="#exclamation-triangle-fill" />
@@ -59,6 +62,7 @@
 		class="alert alert-danger d-flex align-items-center"
 		role="alert">
 		<svg
+			height="36"
 			class="bi flex-shrink-0 me-2"
 			role="img"
 			aria-label="Danger:">
