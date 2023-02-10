@@ -36,7 +36,7 @@ defineProps({
 				<div class="carousel-item active">
 					<img
 						src="../assets/milky-way.jpg"
-						class="d-block w-100"
+						class="d-block w-100 image-cor"
 						alt="..." />
 					<div class="carousel-caption d-none d-md-block">
 						<h5>First slide label</h5>
@@ -46,7 +46,7 @@ defineProps({
 				<div class="carousel-item">
 					<img
 						src="../assets/pizza-with-shrimp-salmon-olives.jpg"
-						class="d-block w-100"
+						class="d-block w-100 image-cor"
 						alt="..." />
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Second slide label</h5>
@@ -56,7 +56,7 @@ defineProps({
 				<div class="carousel-item">
 					<img
 						src="../assets/beautiful-aerial-shot-fronalpstock-mountains-switzerland-beautiful-pink-blue-sky.jpg"
-						class="d-block w-100"
+						class="d-block w-100 image-cor"
 						alt="..." />
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Third slide label</h5>
@@ -88,4 +88,8 @@ defineProps({
 	</div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.image-cor {
+	max-height: 700px;
+}
+</style>
