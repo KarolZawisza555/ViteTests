@@ -4,9 +4,12 @@
 	<div
 		id="form"
 		class="form d-flex align-items-center justify-content-center">
-		<div class="border border-primary rounded p-5">
+		<div
+			style="background-color: whitesmoke"
+			class="border border-4 border-primary rounded p-5">
 			<form>
 				<div class="mb-3">
+					<h1 class="mb-4">Login</h1>
 					<label
 						for="exampleInputEmail1"
 						class="form-label"
