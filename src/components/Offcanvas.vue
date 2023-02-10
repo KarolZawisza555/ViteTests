@@ -21,7 +21,7 @@
 				data-bs-toggle="offcanvas"
 				data-bs-target="#offcanvasTop"
 				aria-controls="offcanvasTop">
-				Toggle top offcanvas
+				Show offcanvas top
 			</button>
 
 			<div

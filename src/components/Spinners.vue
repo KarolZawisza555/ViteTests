@@ -5,7 +5,7 @@ const showSpinners = ref(false);
 </script>
 
 <template>
-    <div class="d-flex align-items-center justify-content-center">
+    <div id="spinners" class="d-flex align-items-center justify-content-center">
 
         <button
         type="button"
